@@ -1,0 +1,2 @@
+# miniEcommerce
+An Angular Project
